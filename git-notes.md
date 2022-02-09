@@ -5,7 +5,7 @@
 
 1. What is a VCS and why is it needed?
 
-> VCS is version control system. VCS is used to make sure that the files in our local repository are upto date with that of the remote repository. In a team, it makes sure that there is no conflict between the code
+> VCS is version control system. VCS is used to make sure that the files in our local repository are upto date with that of the remote repository. In a team, it makes sure that there is no conflict between the code. It helps keep track of all changes made and revert to the previous versions
 
 
 2. Whats is the difference between a forked repo and a cloned repo?
