@@ -10,9 +10,9 @@
 
 2. Whats is the difference between a forked repo and a cloned repo?
 
-> Forked Repo | Cloned Repo 
-  ---  |  --- 
-  Forked repo creates a copy of the original repository into your github remote repo | Cloned repo clones the content of the remote repository to the local repository
+Forked Repo | Cloned Repo 
+---  |  --- 
+Forked repo creates a copy of the original repository into your github remote repo | Cloned repo clones the content of the remote repository to the local repository
 
 
 3. Why do we create branches?
